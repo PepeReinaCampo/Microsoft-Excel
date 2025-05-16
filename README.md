@@ -40,3 +40,10 @@ Subiré los ejercicios siguiendo el orden y clasificación propuestos por Sergio
 > En Excel en español usamos el punto y coma ";" para separar los distintos elementos de las fórmulas, mientras que en otros idiomas (por ejemplo, inglés) se usa la coma ",".  
 > La IA suele dar por defecto la coma ",", así que debemos tener esto presente al copiar y pegar fórmulas.  
 > Además, si estamos anidando fórmulas, hay que ser muy cuidadosos con cerrar bien los paréntesis.
+  
+  
+# TEMA 1
+>## 01 Tipos de datos y validación  
+>> Con esta colección de ejercicios se trabaja sobre el tipo de datos (números, texto, fechas…) que una celda, columna o fila puede admitir.  
+    
+>## 02 Formato condicional
