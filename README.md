@@ -16,7 +16,7 @@ Tampoco pretendo competir con un curso organizado como el de JASÓN Formación, 
 Esto es solo un complemento informal hecho desde la motivación personal por aprender y compartir.
 
   
-## ## Introducción y estructura del repositorio 
+## Introducción y estructura del repositorio 
 
 
 En este repositorio muestro los ejercicios realizados en el curso **“Estrategias para el análisis de datos en la PYME”**, financiado por la Unión Europea a través de NextGeneration.
