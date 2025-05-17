@@ -35,5 +35,10 @@ Seguiré el orden propuesto por el curso. Para cada ejercicio encontrarás:
   
 # TEMA 1
 >## 01 Tipos de datos y validación  
->> Con esta colección de ejercicios se trabaja sobre el tipo de datos (números, texto, fechas…) que una celda, columna o fila puede admitir.   
->## 02 Formato condicional
+>> En esta colección de ejercicios trabajamos sobre el tipo de datos (números, texto, fechas…) que una celda, columna o fila puede admitir.   
+>## 02 Formato condicional  
+>>🛠️🚧
+  
+# TEMA 2  
+>## 01 Tipos de referencias
+>> En esta colección de ejercicios trabajamos con la referencia absoluta de celdas ($), es decir, cómo fijarlas para que no cambien al copiar o arrastrar las fórmulas.
