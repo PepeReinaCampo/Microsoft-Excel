@@ -42,3 +42,5 @@ Seguiré el orden propuesto por el curso. Para cada ejercicio encontrarás:
 # TEMA 2  
 >## 01 Tipos de referencias
 >> En esta colección de ejercicios trabajamos con la referencia absoluta de celdas ($), es decir, cómo fijarlas para que no cambien al copiar o arrastrar las fórmulas.
+>## 🔄02 Funciones matemáticas y estadísticas
+>> En estos ejercicios trabajaremos con funciones matemáticas y estadísticas, que nos permiten realizar cálculos, analizar datos y obtener resúmenes útiles de la información en nuestras hojas de cálculo.
