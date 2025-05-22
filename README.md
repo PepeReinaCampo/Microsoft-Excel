@@ -39,7 +39,9 @@ Seguiré el orden propuesto por el curso. Para cada ejercicio encontrarás:
 >## 02 Formato condicional  
 >>🛠️🚧
   
-# TEMA 2  
+# TEMA 2
+>## ENTREGABLES
+>> En este aparatado se irán subiendo los ejercios entrgables, tanto las soluciones (xlsx) como las hojas con las instruciones o enunciados, en PDF. 
 >## 01 Tipos de referencias
 >> En esta colección de ejercicios trabajamos con la referencia absoluta de celdas ($), es decir, cómo fijarlas para que no cambien al copiar o arrastrar las fórmulas.   
 >## 02 Funciones lógicas
