@@ -19,10 +19,11 @@ JASÓN Formación ofrece una plataforma educativa con apoyo docente, material of
 ---
 ## Estructura de los archivos
 
-Seguiré el orden propuesto por el curso. Por cada tema encontrarás una carpeta llamada **Tema X**. Dentro de ella habrá subcarpetas correspondientes a cada parte del tema. Cada una de estas contendrá a su vez dos carpetas:
+Seguiré el orden propuesto por el curso. Por cada tema encontrarás una carpeta llamada **Tema X**. Dentro de ella habrá subcarpetas para cada parte del tema. En algunos casos, también habrá una carpeta adicional con ejercicios entregables y/o extras. Dentro de estas carpetas encontrarás a su vez dos subcarpetas:
 
 - **Hecho**: contiene la solución explicada.
 - **No hecho**: contiene los archivos originales descargados del curso, sin modificaciones, salvo la eliminación del número inicial en el nombre del archivo.
+
   
 🛠️ Iré actualizando el repositorio conforme avance con los ejercicios, hasta llegar a un proyecto final.
 
