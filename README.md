@@ -17,14 +17,13 @@ Este repositorio recoge los ejercicios del curso **“Estrategias para el análi
 JASÓN Formación ofrece una plataforma educativa con apoyo docente, material oficial y diploma acreditativo. Este repositorio es solo un complemento informal, hecho desde la motivación por aprender y compartir.
 
 ---
-
 ## Estructura de los archivos
 
-Seguiré el orden propuesto por el curso. Para cada ejercicio encontrarás:
+Seguiré el orden propuesto por el curso. Por cada tema encontrarás una carpeta llamada **Tema X**. Dentro de ella habrá subcarpetas correspondientes a cada parte del tema. Cada una de estas contendrá a su vez dos carpetas:
 
-- Archivos **con la palabra “Hecho”**: contienen la solución explicada.
-- Archivos **sin “Hecho”**: son los originales descargados del curso, sin modificaciones salvo la eliminación del número inicial del nombre.
-
+- **Hecho**: contiene la solución explicada.
+- **No hecho**: contiene los archivos originales descargados del curso, sin modificaciones, salvo la eliminación del número inicial en el nombre del archivo.
+  
 🛠️ Iré actualizando el repositorio conforme avance con los ejercicios, hasta llegar a un proyecto final.
 
 ---
