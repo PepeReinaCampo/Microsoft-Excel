@@ -33,18 +33,6 @@ Seguiré el orden propuesto por el curso. Por cada tema encontrarás una carpeta
 > Si usas fórmulas de Excel que obtuviste con IA, revisa los separadores. En español se usa el punto y coma `;`, pero muchas respuestas generadas por IA lo hacen con coma `,`. Esto puede generar errores.  
 > También ten cuidado con los paréntesis al anidar funciones.
   
-# TEMA 1
->## 01 Tipos de datos y validación  
->> En esta colección de ejercicios trabajamos sobre el tipo de datos (números, texto, fechas…) que una celda, columna o fila puede admitir.   
->## 02 Formato condicional  
->>🛠️🚧
-  
-# TEMA 2
->## ENTREGABLES
->> En este apartado se irán subiendo los ejercicios entregables, tanto las soluciones (archivos .xlsx) como las hojas con las instrucciones o enunciados, en formato PDF. 
->## 01 Tipos de referencias
->> En esta colección de ejercicios trabajamos con la referencia absoluta de celdas ($), es decir, cómo fijarlas para que no cambien al copiar o arrastrar las fórmulas.   
->## 02 Funciones lógicas
->> En estos ejercicios trabajaremos con las funciones lógicas "Y", "O" y "SI" de Excel, que nos permiten evaluar varias condiciones y tomar decisiones automáticas en nuestras hojas de cálculo.  
->## 🔄03 Funciones matemáticas y estadísticas
->> En estos ejercicios trabajaremos con funciones matemáticas y estadísticas, que nos permiten realizar cálculos, analizar datos y obtener resúmenes útiles de la información en nuestras hojas de cálculo.
+# [ÍNDICE](https://github.com/PepeReinaCampo/Microsoft-Excel/blob/main/indice.md)
+
+>> Puedes acceder al índice usando el enlace para ver cómo está organizado el curso, o directamente navegar por las carpetas.
