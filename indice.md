@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: left;">
-    <img src="imag/indi.jpg" style="border-radius: 25px; width: 60%;">
+    <img src="imag/indi.png" style="border-radius: 25px; width: 60%;">
 </div>
 
-<small>Imagen generada por la inteligencia artificial Microsoft Copilot</small>
+<small>Imagen generada por Chatgpt a partir de una generada por Microsoft Copilot</small>
   
 # TEMA 1
 >## 01 Tipos de datos y validación  
