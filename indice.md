@@ -19,3 +19,6 @@
 >> En estos ejercicios trabajaremos con las funciones lógicas "Y", "O" y "SI" de Excel, que nos permiten evaluar varias condiciones y tomar decisiones automáticas en nuestras hojas de cálculo.  
 >## 🔄03 Funciones matemáticas y estadísticas
 >> En estos ejercicios trabajaremos con funciones matemáticas y estadísticas, que nos permiten realizar cálculos, analizar datos y obtener resúmenes útiles de la información en nuestras hojas de cálculo.
+  
+# PROYECTO FINAL. 
+>En esta carpeta pondré todo el material referente al proyecto final.
