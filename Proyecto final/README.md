@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: left;">
-    <img src="presen.png" style="border-radius: 25px; width: 60%;">
+    <img src="../imag/presen.png" style="border-radius: 25px; width: 60%;">
 </div>
 
 <small>Imagen generada por la inteligencia artificial Microsoft Copilot</small>
